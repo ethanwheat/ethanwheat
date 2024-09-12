@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer & Undergraduate Student
 ------------------------------------------
 
-I'm a junior pursuing a computer science degree at the University of Kansas
+I'm a senior pursuing a computer science degree at the University of Kansas
 
 *   🌍  I'm based in Lawrence, Kansas
 *   ✉️  You can contact me at [ethanwheat@ku.edu](mailto:ethanwheat@ku.edu)
